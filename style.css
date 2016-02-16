@@ -18,3 +18,8 @@
     font-size: 1.25em;
   }
 }
+
+
+.navbar {
+  background-color: hsla(240, 25, 50, 1);
+}
