@@ -2,6 +2,16 @@
   padding: 50px 0;
 }
 
+#one {
+  background-color: rgba(200, 0, 200, 1);
+  color: white;
+}
+
+#two {
+  background-color: rgba(0, 200, 200, 1);
+  color: black;
+}
+
 @media (max-width: 480px) {
   .navbar-nav li {
     text-align: right;
