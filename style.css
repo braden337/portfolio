@@ -20,6 +20,8 @@
 }
 
 
-.navbar-default {
+.navbar-default .navbar-nav,
+.navbar-default .navbar-brand,
+.navbar-default .navbar-collapse {
   background-color: red;
 }
