@@ -20,6 +20,6 @@
 }
 
 
-.navbar, .navbar-default, .navbar-collapse {
-  background-color: maroon;
+.navbar-default {
+  background-color: red;
 }
