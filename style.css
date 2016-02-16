@@ -19,7 +19,7 @@
   }
 }
 
-.navbar-default, .navbar-nav, .navbar-header, .navbar-brand, .navbar-collapse {
+.navbar-default, .navbar-default .navbar-nav, .navbar-default .navbar-header, .navbar-default .navbar-brand, .navbar-default .navbar-collapse {
   background-color: hsla(240, 25%, 50%, 1);
 }
 
@@ -27,6 +27,6 @@
   /*background-color: inherit;*/
 }
 
-button.navbar-toggle:hover {
+.navbar-default .navbar-toggle:hover {
   background-color: pink;
 }
