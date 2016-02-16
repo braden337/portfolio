@@ -1,3 +1,7 @@
 #one, #two {
   padding: 50px 0;
 }
+
+.navbar-nav li {
+  text-align: right;
+}
