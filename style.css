@@ -27,6 +27,6 @@
   /*background-color: inherit;*/
 }
 
-.navbar-toggle:hover {
+button.navbar-toggle:hover {
   background-color: pink;
 }
