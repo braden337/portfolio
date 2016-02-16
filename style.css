@@ -20,7 +20,7 @@
 }
 
 .navbar-default, .navbar-nav, .navbar-header, .navbar-brand, .navbar-collapse {
-  background-color: hsla(240, 25, 50, 1);
+  background-color: hsla(240, 25%, 50%, 1);
 }
 
 .navbar-toggle {
