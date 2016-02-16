@@ -20,5 +20,13 @@
 }
 
 .navbar-default, .navbar-nav, .navbar-header, .navbar-brand, .navbar-collapse {
-  background-color: red;
+  background-color: hsla(240, 25, 50, 1);
+}
+
+.navbar-toggle {
+  background-color: inherit;
+}
+
+.navbar-toggle:hover {
+  background-color: pink;
 }
